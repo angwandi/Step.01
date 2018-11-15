@@ -9,10 +9,6 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import com.example.android.navigation.databinding.FragmentTitleBinding
 
-/**
- * A simple [Fragment] subclass.
- *
- */
 class TitleFragment : Fragment() {
 
     //Inflating and Returning the View with DataBindingUtil
