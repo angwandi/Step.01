@@ -20,4 +20,5 @@ class GameOverFragment : Fragment() {
         }
         return binding.root
     }
+
 }
